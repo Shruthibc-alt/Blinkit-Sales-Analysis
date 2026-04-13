@@ -29,22 +29,31 @@ Insight generation
 🔍 Key Insights
 
 • Supermarket Type 1 generates the highest sales contribution
+
 • Tier 3 outlets contribute maximum revenue compared to other tiers
-• Regular fat products dominate overall sales
+
+Regular fat products dominate overall sales
+
 • Medium-sized outlets perform better in terms of total sales
+
 • Certain product categories consistently underperform
 
 🛠️ Tools Used
 
 • Power BI
+
 • DAX
+
 • Data Modeling
+
 • Excel
 
 📂 How to Use
 
 • Download the .pbix file
+
 • Open in Power BI Desktop
+
 • Use filters to explore sales trends, categories, and outlet performance
 
 ### 📈 Result
