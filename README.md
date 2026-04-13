@@ -1,34 +1,27 @@
-# 📊 Blinkit Sales Analysis Dashboard
+📊 Blinkit Sales Analysis Dashboard
+🎯 Project Objective
 
-An interactive Power BI dashboard analyzing Blinkit’s sales, inventory, customer feedback, and product performance.
+To analyze Blinkit sales data and generate insights on customer behavior, product performance, and outlet trends for data-driven decision making.
 
+🔹 Project Overview
 
+This project presents an interactive Power BI dashboard analyzing sales performance, inventory trends, and customer segmentation. It helps identify key patterns and supports business decision-making.
 
-## 🔍 Key Highlights
+🔍 Key Insights
 
-- 💰 Total Sales: ₹11.01M  
-- ⭐ Average Rating: 3.34  
-- 🛍️ Average Order Value: ₹1.10K  
-- 🏷️ Total Brands: 267  
-- 📈 Monthly revenue & order trends  
-- 📦 Inventory status by product  
-- 💬 Customer sentiment breakdown  
-- 📊 Revenue by channel & category ratings  
+Supermarket Type 1 contributes the highest sales
+Tier 3 outlets generate maximum revenue
+Regular fat products dominate overall sales
+Certain product categories show consistently low performance
 
-## 🛠️ Tools Used
+🛠️ Tools Used
 
-- Power BI  
-- Excel  
-- GitHub  
+Power BI
+DAX
+Data Modeling
+Excel
 
-## 📂 Files
-
-- `Dashboard.png` – Screenshot of the dashboard  
-- `.pbix`  – Power BI file 
-
-
-## 🚀 How to Use
-
-1. Clone or download the repository.
-2. open the `.pbix` file in Power BI Desktop to interact with the dashboard.
-3. Review the `Dashboard.png` for a quick overview.
+📂 How to Use
+Download the .pbix file
+Open in Power BI Desktop
+Use filters to explore sales trends, categories, and outlet performance
