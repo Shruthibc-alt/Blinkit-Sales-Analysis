@@ -11,6 +11,14 @@ This project presents an interactive Power BI dashboard analyzing sales performa
 
 The objective is to analyze sales data to understand customer preferences, identify high and low performing product categories, and improve overall business performance through data-driven insights.
 
+### ⚙️ Project Workflow
+
+Data cleaning and preprocessing  
+Data modeling and relationships  
+DAX calculations for KPIs  
+Dashboard design and visualization  
+Insight generation  
+
 📊 Key KPIs
 
 • Total Sales
@@ -38,3 +46,7 @@ The objective is to analyze sales data to understand customer preferences, ident
 • Download the .pbix file
 • Open in Power BI Desktop
 • Use filters to explore sales trends, categories, and outlet performance
+
+### 📈 Result
+
+The dashboard helps identify key sales trends, customer preferences, and underperforming categories, enabling better business decision-making.
